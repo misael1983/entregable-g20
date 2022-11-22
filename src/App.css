@@ -1,0 +1,28 @@
+
+.card {
+    background-color: white;
+    max-width: 500px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px #0006;  
+  }
+  .card__icon {
+    font-size: 4rem;
+    float: left;
+    
+  }
+  .card__quote {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  .card__author {
+    text-align: end;
+    margin-bottom: 10px;
+  }
+  .App {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
